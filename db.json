@@ -1,0 +1,31 @@
+{
+    "Parking":[
+        {
+            "id":1,
+            "ownerName":"Suresh Sharma",
+            "carNumber":"UP-78-AV-6222",
+            "parked":true,
+            "cheakinTime":"",
+            "cheakoutTime":""
+    
+        },
+        {
+            "id":2,
+            "ownerName":"Suresh Sharma",
+            "carNumber":"UP-78-AV-6222",
+            "parked":true,
+            "cheakinTime":"",
+            "cheakoutTime":""
+    
+        },
+        {
+            "id":3,
+            "ownerName":"Suresh Sharma",
+            "carNumber":"UP-78-AV-6222",
+            "parked":true,
+            "cheakinTime":"",
+            "cheakoutTime":""
+    
+        }
+    ]
+}
